@@ -6,7 +6,7 @@ function App() {
           <p className="text-3xl font-bold">
             Hello World!
           </p>
-          <p >
+          <p className="italic">
             By Isaac
           </p>
         </p>
